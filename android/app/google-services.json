@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354241837842",
+    "project_id": "otps-2a128",
+    "storage_bucket": "otps-2a128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354241837842:android:3d5a6242baed8dc8c811cb",
+        "android_client_info": {
+          "package_name": "com.example.otp_tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354241837842-6d3f4o6vifek0nadi0s8a9770pu0ntbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaNVkWqoJjGmdkBB2D4jtrSE8TkhNZKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354241837842-6d3f4o6vifek0nadi0s8a9770pu0ntbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
